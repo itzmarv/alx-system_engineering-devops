@@ -1,2 +1,2 @@
 #!/bin/bash
-iftp olleh:~> mirror hello
+chmod --reference-olleh hello
